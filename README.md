@@ -3,12 +3,13 @@
 ---
 
 It's a readme written in both 'Chinese' and 'English'
-## It's a **sddm login interface** for **Arch Linux** with a lot of kipfel pictures I took in Vrchat /
+## It's a **sddm login interface** for **Arch Linux** with a lot of kipfel pictures I took in Vrchat
 ## 这是一个给**Arch Liunx**用的**sddm**登陆界面，里面有很多我在vrc拍的kipfel壁纸
 
 ---
 
 ## ScreenShots 
+
 
 ---
 
@@ -43,7 +44,7 @@ It's a readme written in both 'Chinese' and 'English'
 
 ### use the login theme
 **Copy the whole folder you got into the Theme Folder**  
-**Ususally it's in /usr/share/sddm/themes/**  
+**Ususally it's in `/usr/share/sddm/themes/`**  
 `sudo cp path/to/the/Folder /usr/share/sddm/themes/`
 
 **Apply it in plasma Settings**
@@ -51,7 +52,7 @@ It's a readme written in both 'Chinese' and 'English'
 
 ## 安装
 ### 复制仓库或者下载zip都可以  
-'git clone https://github.com/SulfurQWQ/sddm_Random_Kipfel_Login'  
+`git clone https://github.com/SulfurQWQ/sddm_Random_Kipfel_Login`
 
 ### 安装依赖
 
@@ -66,8 +67,8 @@ It's a readme written in both 'Chinese' and 'English'
 
 ### 应用主题
 **复制整个文件夹到存放主题文件夹**
-**存放主题文件夹一般在 /usr/share/sddm/themes/**
-'sudo cp path/to/the/Folder /usr/share/sddm/themes/'
+**存放主题文件夹一般在 `/usr/share/sddm/themes/`**
+`sudo cp path/to/the/Folder /usr/share/sddm/themes/`
 
 **在Plasma Settings应用**
 **重启，大功告成**
@@ -93,7 +94,8 @@ Btw, submit a Pull Request is also Okay :p
 
 ---
 
-## Contact me here! / 在这里联系我
+## Contact me here! 
+## 在这里联系我
 discord: sulfur_2009
 telegram: @sulfur_ovo
 
