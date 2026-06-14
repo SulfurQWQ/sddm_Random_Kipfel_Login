@@ -2,7 +2,7 @@
 
 ---
 
-It's a readme written in both 'Chinese' and 'English'
+It's a readme written in both `Chinese` and `English`
 ## It's a **sddm login interface** for **Arch Linux** with a lot of kipfel pictures I took in Vrchat
 ## 这是一个给**Arch Liunx**用的**sddm**登陆界面，里面有很多我在vrc拍的kipfel壁纸
 
