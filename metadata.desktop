@@ -1,0 +1,10 @@
+[SddmGreeterTheme]
+Name=Kipfel
+Description=A login theme but Kipfel inside! ^-_-^
+Author=Sulfur_qwq
+Copyright=(c) 2026 Sulfur_qwq
+License=GPL
+Type=sddm-theme
+Version=1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
