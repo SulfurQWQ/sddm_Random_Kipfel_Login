@@ -28,7 +28,7 @@ It's a readme written in both 'Chinese' and 'English'
 
 ## Installation
 ### Clone the Repository or Donload zip from Releases
-'git clone https://github.com/SulfurQWQ/sddm_Random_Kipfel_Login'
+`git clone https://github.com/SulfurQWQ/sddm_Random_Kipfel_Login`
 
 ### Install Dependencies
 
@@ -42,16 +42,16 @@ It's a readme written in both 'Chinese' and 'English'
 6. Qt.labs.folderlistmodel
 
 ### use the login theme
-**Copy the whole folder you got into the Theme Folder**
-**Ususally it's in /usr/share/sddm/themes/**
-'sudo cp path/to/the/Folder /usr/share/sddm/themes/'
+**Copy the whole folder you got into the Theme Folder**  
+**Ususally it's in /usr/share/sddm/themes/**  
+`sudo cp path/to/the/Folder /usr/share/sddm/themes/`
 
 **Apply it in plasma Settings**
 **Reboot, then everything okay!**
 
 ## 安装
-### 复制仓库或者下载zip都可以
-'git clone https://github.com/SulfurQWQ/sddm_Random_Kipfel_Login'
+### 复制仓库或者下载zip都可以  
+'git clone https://github.com/SulfurQWQ/sddm_Random_Kipfel_Login'  
 
 ### 安装依赖
 
