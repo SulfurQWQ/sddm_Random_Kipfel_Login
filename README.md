@@ -9,7 +9,7 @@ It's a readme written in both 'Chinese' and 'English'
 ---
 
 ## ScreenShots 
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3372f3e8-950a-4a73-99d0-f2b6c96c34d8" />
 
 ---
 
